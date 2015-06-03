@@ -1,6 +1,6 @@
 ## Mocha JS Sample
 
-![Build Status](https://travis-ci.org/andersryanc/mocha-js-sample.svg)
+[![Build Status](https://travis-ci.org/andersryanc/mocha-js-sample.svg)](https://travis-ci.org/andersryanc/mocha-js-sample)
 
 a simple set of random classes with mocha unit tests
 
