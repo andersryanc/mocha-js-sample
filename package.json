@@ -1,0 +1,19 @@
+{
+  "name": "mocha-js-sample",
+  "version": "1.0.0",
+  "description": "a simple set of random classes with mocha unit tests",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@mr_anderson",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "gulp": "^3.8.11",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-mocha": "^2.1.0",
+    "gulp-watch": "^4.2.4"
+  }
+}
